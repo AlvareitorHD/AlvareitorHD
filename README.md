@@ -2,16 +2,16 @@
   <h1 align="center">¡Bienvenido al perfil de Álvaro! 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/AlvareitorHD"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+estudiante+en+la+Universidad+de+Granada,+ETSIIT.;¡Apasionado+por+el+desarrollo+de+software+y+la+tecnología!"/></a>
+  <a align="center" href="https://github.com/AlvareitorHD"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Estudiante+en+la+UGR,+ETSIIT.;¡Apasionado+por+el+desarrollo+de+software+y+la+tecnología!"/></a>
 </p>
 <p>Soy un estudiante en la Universidad de Granada, actualmente cursando estudios en la Escuela Técnica Superior de Ingeniería Informática y de Telecomunicación (ETSIIT). Me apasiona el desarrollo de software y la tecnología, siempre estoy buscando aprender y mejorar mis habilidades.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hola, soy @TuUsuario</li>
-  <li>❤️ Me encanta crear sitios web y programar en Python.</li>
+  <li>👋 Hola, soy Álvaro.</li>
+  <li>❤️ Me gusta aprender frameworks.</li>
   <li>🌱 Actualmente estoy aprendiendo Desarrollo Web, Desarrollo Android, C++, Java, Python y JS.</li>
-  <li>💼 Soy desarrollador Frontend en Crediometer.</li>
-  <li>🧐 Sitio web de mi portafolio, https://tuusuario.github.io</li>
+  <li>💼 Ahora mismo no trabajo, estudio.</li>
+  <li>🧐 </li>
 </ul>
 
 #### Un poco más sobre mí
